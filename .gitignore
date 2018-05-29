@@ -1,0 +1,14 @@
+[Rr]elease/
+[Dd]ebug/
+[Xx]64/
+build/
+build_linux/
+data/
+
+*.vcxproj
+*.filters
+*.user
+*.exe
+
+*.swp
+
